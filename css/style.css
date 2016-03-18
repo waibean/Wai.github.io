@@ -1,0 +1,44 @@
+h1{
+  color:white;
+   text-align:center;
+}
+
+h2{
+  color: white;
+  text-align:center;
+}
+
+.ears{ 
+  color: yellow;
+}
+
+h3{
+  color:white;
+    text-indent: 50px;
+}
+
+body{
+  background:url(http://orig15.deviantart.net/e1ea/f/2008/105/8/6/gibson_les_paul_by_sharplin.jpg);
+  background-size:cover
+}
+
+img{
+  width:600px
+  
+
+}
+
+div {
+  width:40%;
+  display: inline-block;
+}
+
+.timing{
+  margin-left: 10px;
+}
+
+.eartraining{
+  vertical-align: top;
+  margin-left: 100px;
+ 
+}
